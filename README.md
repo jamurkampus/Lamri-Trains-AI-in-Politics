@@ -15,3 +15,7 @@ long-term strategies, and the role of time in decision-making.
 
 ## Author
 - **Lamri from Susuk Dalam, Sandaran**
+
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
