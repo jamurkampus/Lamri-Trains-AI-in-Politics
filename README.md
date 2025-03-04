@@ -1,4 +1,11 @@
+# Lamri Trains AI in Politics
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+A research and methodology on how AI can be trained to analyze political strategies and governance models.
+
 # Lamri Trains AI in Political Analysis
+
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
