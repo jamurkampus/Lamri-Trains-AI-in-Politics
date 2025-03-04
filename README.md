@@ -1,5 +1,7 @@
 # Lamri Trains AI in Political Analysis
 
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 This repository contains an analysis of how AI can be trained to think strategically in politics.
 Developed through discussions with Lamri, this study explores how AI can recognize political patterns, 
 long-term strategies, and the role of time in decision-making.
